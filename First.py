@@ -1,3 +1,5 @@
 print("Hello world")
 print("Nice to meet you Git")
 print("I hope I can grasp you quickly")
+name = input("So what's your name? ")
+print("Hello,",name)
